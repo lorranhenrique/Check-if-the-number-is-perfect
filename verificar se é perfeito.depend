@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683939733 source:f:\curso c facul\verificar se é perfeito\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
